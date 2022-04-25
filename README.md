@@ -1,4 +1,4 @@
-#### Olá, Eu sou Vanderson Alves! Atualmente sou estudante de Desenvolvimento Web. No meu cotidiano uso tecnologias como: Javascript, React.JS, Node.JS, Firebase. Sou de Belo Horizonte - MG, tenho 22 anos e sempre fui fascinado por tecnologia.
+#### Olá, Eu sou Vanderson Alves! Atualmente estudo Desenvolvimento Web. No meu cotidiano uso tecnologias como: Javascript, React.JS, Node.JS, Firebase. Sou de Belo Horizonte - MG, tenho 22 anos e sempre fui fascinado por tecnologia.
 
 <div align="left">
   <a href="https://github.com/vanderson-alves">
